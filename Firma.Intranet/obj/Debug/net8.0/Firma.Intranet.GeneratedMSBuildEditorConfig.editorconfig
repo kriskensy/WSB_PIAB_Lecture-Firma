@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Firma.Intranet
 build_property.RootNamespace = Firma.Intranet
@@ -20,6 +28,26 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Goods/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Goods/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Goods/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Goods/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Goods/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,12 +56,72 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/News/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/News/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Page/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Page/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Page/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Page/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Page/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/TypeOf/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU9mXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/TypeOf/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU9mXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/TypeOf/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU9mXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/TypeOf/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU9mXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/TypeOf/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU9mXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Programming/_Studia WSB-NLU/dotNET courses/Internet Applications/Firma/Firma.Intranet/Views/_ViewImports.cshtml]
