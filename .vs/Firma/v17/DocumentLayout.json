@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Migrations\\20250323121811_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Firma.Intranet\\Migrations\\20250323121811_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\models\\cms\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\models\\cms\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\models\\shop\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\models\\shop\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\models\\shop\\typeof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\models\\shop\\typeof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.intranet\\models\\cms\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E9178A-F00F-4482-8B90-42D8D2726EFD}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\models\\cms\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F1D9F7-648F-4951-BD13-CD01EB6C8363}|Firma.Data\\Firma.Data.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.data\\data\\firmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F1D9F7-648F-4951-BD13-CD01EB6C8363}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\data\\firmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\appsettings.json",
-              "RelativeDocumentMoniker": "Firma.Intranet\\appsettings.json",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\appsettings.json",
-              "RelativeToolTip": "Firma.Intranet\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T12:21:07.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250323121811_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Migrations\\20250323121811_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Migrations\\20250323121811_InitialCreate.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Migrations\\20250323121811_InitialCreate.cs",
-              "RelativeToolTip": "Firma.Intranet\\Migrations\\20250323121811_InitialCreate.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
+              "Title": "FirmaContext.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Data\\Data\\FirmaContext.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Data\\FirmaContext.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Data\\Data\\FirmaContext.cs",
+              "RelativeToolTip": "Firma.Data\\Data\\FirmaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:18:11.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Firma.Intranet\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T12:07:45.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PageController.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Controllers\\PageController.cs",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Controllers\\PageController.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Controllers\\PageController.cs",
-              "RelativeToolTip": "Firma.Intranet\\Controllers\\PageController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAcwE8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:14:12.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Page.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\CMS\\Page.cs",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Models\\CMS\\Page.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\CMS\\Page.cs",
-              "RelativeToolTip": "Firma.Intranet\\Models\\CMS\\Page.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:57:11.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Goods.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\Shop\\Goods.cs",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Models\\Shop\\Goods.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\Shop\\Goods.cs",
-              "RelativeToolTip": "Firma.Intranet\\Models\\Shop\\Goods.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:56:20.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TypeOf.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\Shop\\TypeOf.cs",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Models\\Shop\\TypeOf.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\Shop\\TypeOf.cs",
-              "RelativeToolTip": "Firma.Intranet\\Models\\Shop\\TypeOf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:56:19.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "News.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\CMS\\News.cs",
-              "RelativeDocumentMoniker": "Firma.Intranet\\Models\\CMS\\News.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Intranet\\Models\\CMS\\News.cs",
-              "RelativeToolTip": "Firma.Intranet\\Models\\CMS\\News.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:55:20.28Z",
+              "WhenOpened": "2025-03-23T13:25:47.383Z",
               "EditorCaption": ""
             }
           ]

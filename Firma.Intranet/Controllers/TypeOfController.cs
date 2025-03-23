@@ -2,19 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Firma.Data.Data;
+using Firma.Data.Data.Shop;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Firma.Intranet.Data;
-using Firma.Intranet.Models.Shop;
+
 
 namespace Firma.Intranet.Controllers
 {
     public class TypeOfController : Controller
     {
-        private readonly FirmaIntranetContext _context;
+        private readonly FirmaContext _context;
 
-        public TypeOfController(FirmaIntranetContext context)
+        public TypeOfController(FirmaContext context)
         {
             _context = context;
         }
