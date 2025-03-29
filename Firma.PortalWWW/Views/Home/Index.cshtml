@@ -1,9 +1,10 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model Firma.Data.Data.CMS.Page
+
+@{
+    ViewData["Title"] = Model.LinkTitle;
 }
 
-<h1>Hello</h1>
+<h1>@Model.Title</h1>
 <p>
-    Somthing...
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit iusto fuga accusamus maiores repudiandae velit culpa optio quos doloribus dicta modi hic esse voluptate, at excepturi ipsam beatae sapiente cumque.
+    @Model.TextContent
 </p>

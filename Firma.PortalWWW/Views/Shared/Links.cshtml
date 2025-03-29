@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Firma.Data.Data.CMS.Page>
+<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+    <ul class="navbar-nav flex-grow-1">
+        @foreach(var item in Model)
+        {
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index" asp-route-id="@item.IdPage">@item.LinkTitle</a>
+            </li>
+        }
+    </ul>
+</div>

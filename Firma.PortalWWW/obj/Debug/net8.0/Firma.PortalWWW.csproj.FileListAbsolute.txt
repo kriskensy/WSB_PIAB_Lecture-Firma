@@ -262,3 +262,13 @@ C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.PortalWWW.csproj.AssemblyReference.cache
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\obj\Debug\net8.0\Firma.Po.6393D80D.Up2Date
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.Data.staticwebassets.runtime.json
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.Data.staticwebassets.endpoints.json
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.Data.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.PortalWWW\bin\Debug\net8.0\Firma.Data.pdb
