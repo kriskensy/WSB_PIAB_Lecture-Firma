@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\typeofmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\typeofmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\_shoplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\_shoplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 26,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Firma.PortalWWW\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T11:14:45.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "News.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\News.cshtml",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\News.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\News.cshtml",
-              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\News.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Title": "TypeOfMenu.cshtml",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
+              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T10:30:03.22Z",
+              "WhenOpened": "2025-03-29T14:33:52.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Firma.PortalWWW\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T10:10:35.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T09:58:45.963Z",
+              "WhenOpened": "2025-03-29T14:27:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T13:52:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ShopLayout.cshtml",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
+              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T13:09:45.947Z",
               "EditorCaption": ""
             }
           ]

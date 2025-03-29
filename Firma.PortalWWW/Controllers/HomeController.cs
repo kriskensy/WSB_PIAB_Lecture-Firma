@@ -9,6 +9,7 @@ namespace Firma.PortalWWW.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    //to jest pola odpowiedzialne za dzialanie na DB
     private readonly FirmaContext _context;
     public HomeController(ILogger<HomeController> logger, FirmaContext context)
     {

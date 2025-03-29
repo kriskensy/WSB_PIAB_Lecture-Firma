@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Firma.Data.Data.Shop.Goods>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_ShopLayout.cshtml";
+}
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Foto</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><img src="~/content/Smash-Burger.webp" class="card-img-top" style="max-width: 200px" alt="Smash-Burger"></td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
