@@ -26,3 +26,4 @@ C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\refint\Firma.Data.dll
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\Firma.Data.pdb
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\ref\Firma.Data.dll
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\staticwebassets.build.json.cache

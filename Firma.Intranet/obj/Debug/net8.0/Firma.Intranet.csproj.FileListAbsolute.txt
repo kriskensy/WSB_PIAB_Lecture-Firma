@@ -21,12 +21,6 @@ C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets.build.json
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets.development.json
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets\msbuild.Firma.Intranet.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets\msbuild.Firma.Intranet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets\msbuild.build.Firma.Intranet.props
-C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Firma.Intranet.props
-C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Firma.Intranet.props
-C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\Firma.Intranet.dll
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\refint\Firma.Intranet.dll
@@ -272,3 +266,4 @@ C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\bin\Debug\net8.0\Microsoft.JSInterop.dll
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\bin\Debug\net8.0\Firma.Data.dll
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\bin\Debug\net8.0\Firma.Data.pdb
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Intranet\obj\Debug\net8.0\staticwebassets.build.json.cache

@@ -1,0 +1,22 @@
+﻿@model Firma.Data.Data.Shop.Goods
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_ShopLayout.cshtml";
+}
+<div>
+    Foto
+</div>
+<h3>
+    Name: @Model.Name
+</h3>
+<div>
+    Code: @Model.Code
+</div>
+<div>
+    @Model.Price
+</div>
+<h3>Description:</h3>
+<div>
+    @Model.Description
+</div>

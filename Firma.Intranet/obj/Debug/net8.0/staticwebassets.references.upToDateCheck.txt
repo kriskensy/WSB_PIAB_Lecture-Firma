@@ -1,2 +1,5 @@
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\staticwebassets.build.json
 C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programming\_Studia WSB-NLU\dotNET courses\Internet Applications\Firma\Firma.Data\obj\Debug\net8.0\staticwebassets.build.json

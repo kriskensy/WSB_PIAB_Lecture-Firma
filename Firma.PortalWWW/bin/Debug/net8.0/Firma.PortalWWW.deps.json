@@ -9,6 +9,7 @@
       "Firma.PortalWWW/1.0.0": {
         "dependencies": {
           "Firma.Data": "1.0.0",
+          "Firma.Services": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
@@ -1985,6 +1986,29 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Firma.Interfaces/1.0.0": {
+        "dependencies": {
+          "Firma.Data": "1.0.0"
+        },
+        "runtime": {
+          "Firma.Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Firma.Services/1.0.0": {
+        "dependencies": {
+          "Firma.Data": "1.0.0",
+          "Firma.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Firma.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -3150,6 +3174,16 @@
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
     },
     "Firma.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Firma.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Firma.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

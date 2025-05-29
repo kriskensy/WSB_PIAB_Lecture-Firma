@@ -11,6 +11,7 @@
                 <th>Foto</th>
                 <th>Name</th>
                 <th>Price</th>
+                <th>Operations</th>
             </tr>
         </thead>
         <tbody>
@@ -20,6 +21,9 @@
                     <td><img src="~/content/Smash-Burger.webp" class="card-img-top" style="max-width: 200px" alt="Smash-Burger"></td>
                     <td>@item.Name</td>
                     <td>@item.Price</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.IdGoods">Details</a>
+                    </td>
                 </tr>
             }
         </tbody>

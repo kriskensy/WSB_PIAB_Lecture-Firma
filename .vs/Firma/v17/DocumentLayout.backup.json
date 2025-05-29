@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\dependencyinjectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\dependencyinjectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\typeofmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\typeofmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\controllers\\typeofmenucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\controllers\\typeofmenucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.services\\shop\\typeofservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|solutionrelative:firma.services\\shop\\typeofservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\views\\shared\\_shoplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\_shoplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.services\\shop\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|solutionrelative:firma.services\\shop\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD554FF7-0CBC-47DE-BBCA-264BBB2F5256}|Firma.Interfaces\\Firma.Interfaces.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.interfaces\\shop\\igoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD554FF7-0CBC-47DE-BBCA-264BBB2F5256}|Firma.Interfaces\\Firma.Interfaces.csproj|solutionrelative:firma.interfaces\\shop\\igoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD554FF7-0CBC-47DE-BBCA-264BBB2F5256}|Firma.Interfaces\\Firma.Interfaces.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.interfaces\\shop\\itypeofservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD554FF7-0CBC-47DE-BBCA-264BBB2F5256}|Firma.Interfaces\\Firma.Interfaces.csproj|solutionrelative:firma.interfaces\\shop\\itypeofservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.services\\cms\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|solutionrelative:firma.services\\cms\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.portalwww\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6497A67-D99E-41E8-8C95-1A00915529A0}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD554FF7-0CBC-47DE-BBCA-264BBB2F5256}|Firma.Interfaces\\Firma.Interfaces.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.interfaces\\cms\\ipageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD554FF7-0CBC-47DE-BBCA-264BBB2F5256}|Firma.Interfaces\\Firma.Interfaces.csproj|solutionrelative:firma.interfaces\\cms\\ipageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|c:\\programming\\_studia wsb-nlu\\dotnet courses\\internet applications\\firma\\firma.services\\abstraction\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535BC63-6EE9-4BF9-B913-EC619B8195F4}|Firma.Services\\Firma.Services.csproj|solutionrelative:firma.services\\abstraction\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 26,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TypeOfMenu.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
-              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\TypeOfMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T14:33:52.418Z",
+              "DocumentIndex": 3,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Firma.PortalWWW\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:30:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoodService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\Shop\\GoodService.cs",
+              "RelativeDocumentMoniker": "Firma.Services\\Shop\\GoodService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\Shop\\GoodService.cs",
+              "RelativeToolTip": "Firma.Services\\Shop\\GoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:12:26.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T14:27:18.148Z",
+              "Title": "TypeOfService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\Shop\\TypeOfService.cs",
+              "RelativeDocumentMoniker": "Firma.Services\\Shop\\TypeOfService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\Shop\\TypeOfService.cs",
+              "RelativeToolTip": "Firma.Services\\Shop\\TypeOfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:12:13.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITypeOfService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Interfaces\\Shop\\ITypeOfService.cs",
+              "RelativeDocumentMoniker": "Firma.Interfaces\\Shop\\ITypeOfService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Interfaces\\Shop\\ITypeOfService.cs",
+              "RelativeToolTip": "Firma.Interfaces\\Shop\\ITypeOfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:23:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGoodService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Interfaces\\Shop\\IGoodService.cs",
+              "RelativeDocumentMoniker": "Firma.Interfaces\\Shop\\IGoodService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Interfaces\\Shop\\IGoodService.cs",
+              "RelativeToolTip": "Firma.Interfaces\\Shop\\IGoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:23:38.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeOfMenuComponent.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\TypeOfMenuComponent.cs",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Controllers\\TypeOfMenuComponent.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\TypeOfMenuComponent.cs",
+              "RelativeToolTip": "Firma.PortalWWW\\Controllers\\TypeOfMenuComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:32:32.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\CMS\\PageService.cs",
+              "RelativeDocumentMoniker": "Firma.Services\\CMS\\PageService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\CMS\\PageService.cs",
+              "RelativeToolTip": "Firma.Services\\CMS\\PageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:59:32.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPageService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Interfaces\\CMS\\IPageService.cs",
+              "RelativeDocumentMoniker": "Firma.Interfaces\\CMS\\IPageService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Interfaces\\CMS\\IPageService.cs",
+              "RelativeToolTip": "Firma.Interfaces\\CMS\\IPageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:29:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Firma.PortalWWW\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:13:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Program.cs",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Program.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Program.cs",
+              "RelativeToolTip": "Firma.PortalWWW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:06:15.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T13:52:04.687Z",
+              "Title": "DependencyInjectionFactory.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\DependencyInjectionFactory.cs",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\DependencyInjectionFactory.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\DependencyInjectionFactory.cs",
+              "RelativeToolTip": "Firma.PortalWWW\\DependencyInjectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:02:47.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ShopLayout.cshtml",
-              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
-              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
-              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
-              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\_ShopLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T13:09:45.947Z",
+              "DocumentIndex": 11,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\Abstraction\\BaseService.cs",
+              "RelativeDocumentMoniker": "Firma.Services\\Abstraction\\BaseService.cs",
+              "ToolTip": "C:\\Programming\\_Studia WSB-NLU\\dotNET courses\\Internet Applications\\Firma\\Firma.Services\\Abstraction\\BaseService.cs",
+              "RelativeToolTip": "Firma.Services\\Abstraction\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:29:25.641Z",
               "EditorCaption": ""
             }
           ]
